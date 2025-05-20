@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise4 {
+public class IsPalindrome {
     public static boolean isPalindrome(String str) {
         String cleaned = str.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
         String reversed = new StringBuilder(cleaned).reverse().toString();
