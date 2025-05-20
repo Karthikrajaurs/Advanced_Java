@@ -57,6 +57,24 @@ Update and rename 3b_StringExercise5.java to 3b_StringExercise1/3b_Re…
 3b_ReverseString.java
 
 
+3c_CapitalizeWords.java
+Update and rename 3c_StringExercise6.java to 3c_StringExercise2/3c_Ca…
+7 hours ago
+3c_CountWords.java
+Update and rename 3c_StringExercise10.java to 3c_StringExercise2/3c_C…
+8 hours ago
+3c_GenerateRandomString.java
+Update and rename 3c_StringExercise9.java to 3c_StringExercise2/3c_Ge…
+7 hours ago
+3c_IsNumeric.java
+Update and rename 3c_StringExercise8.java to 3c_StringExercise2/3c_Is…
+7 hours ago
+3c_Truncate.java
+
+
+
+
+
 
 
 
