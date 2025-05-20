@@ -36,6 +36,15 @@ Rename 1c_LinkedList_ReverseIterate.java to 1c_LinkedList/1c_LinkedLi…
 1c_LinkedList_SwapElements.java
 
 
+2a_StringOperationsDemo.java
+
+2b_StringBufferBuilderTest.java
+
+3a_StringOperations.java
+
+
+
+
 
 
 
