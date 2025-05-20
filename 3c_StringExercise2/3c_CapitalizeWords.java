@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise6 {
+public class CapitalizeWords {
     public static String capitalizeWords(String str) {
         String[] words = str.trim().split("\\s+");
         StringBuilder result = new StringBuilder();
