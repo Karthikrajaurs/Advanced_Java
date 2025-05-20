@@ -42,6 +42,20 @@ Rename 1c_LinkedList_ReverseIterate.java to 1c_LinkedList/1c_LinkedLi…
 
 3a_StringOperations.java
 
+3b_CountOccurrences.java
+Update and rename 3b_StringExercise2.java to 3b_StringExercise1/3b_Co…
+8 hours ago
+3b_IsNullOrEmpty.java
+Update and rename 3b_StringExercise1.java to 3b_StringExercise1/3b_Is…
+8 hours ago
+3b_IsPalindrome.java
+Update and rename 3b_StringExercise4.java to 3b_StringExercise1/3b_Is…
+8 hours ago
+3b_RemoveWhitespace.java
+Update and rename 3b_StringExercise5.java to 3b_StringExercise1/3b_Re…
+8 hours ago
+3b_ReverseString.java
+
 
 
 
