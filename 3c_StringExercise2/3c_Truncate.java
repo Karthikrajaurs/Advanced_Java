@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise7 {
+public class Truncate {
     public static String truncate(String str, int length) {
         if (str == null || str.length() <= length) return str;
         return str.substring(0, length) + "...";
