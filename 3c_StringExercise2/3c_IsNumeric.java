@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise8 {
+public class IsNumeric {
     public static boolean isNumeric(String str) {
         return str != null && str.matches("\\d+");
     }
