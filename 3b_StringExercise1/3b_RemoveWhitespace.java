@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise5 {
+public class RemoveWhitespace {
     public static String removeWhitespace(String str) {
         return str.replaceAll("\\s+", "");
     }
