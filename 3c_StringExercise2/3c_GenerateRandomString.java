@@ -5,7 +5,7 @@
 
 import java.util.Random;
 
-public class StringExercise9 {
+public class GenerateRandomString {
     public static String generateRandomString(int length) {
         String chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
         StringBuilder sb = new StringBuilder();
