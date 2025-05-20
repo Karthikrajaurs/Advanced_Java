@@ -103,8 +103,10 @@ This contents are based on advanced java concepts like Collections frame work , 
 
 9a_CoffeeDeleteApp  - o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9a1.png
                       o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9a2.png
-9b_CoffeeQueryStartsWithD  - o/p link --
-
+                      
+9b_CoffeeQueryStartsWithD  - o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9b1.png
+                             o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9b2.png
+                             
 9c_EmpAppendAndReport  - o/p link --
 
 9d_EmpDeleteByName  - o/p link --
