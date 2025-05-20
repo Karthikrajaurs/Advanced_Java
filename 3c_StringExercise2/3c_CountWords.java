@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise10 {
+public class CountWords {
     public static int countWords(String str) {
         if (str == null || str.trim().isEmpty()) return 0;
         return str.trim().split("\\s+").length;
