@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise3 {
+public class ReverseString {
     public static String reverseString(String str) {
         return new StringBuilder(str).reverse().toString();
     }
