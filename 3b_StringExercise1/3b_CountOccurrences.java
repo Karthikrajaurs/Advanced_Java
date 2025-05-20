@@ -3,7 +3,7 @@
 */
 
 
-public class StringExercise2 {
+public class CountOccurrences {
     public static int countOccurrences(String mainStr, String subStr) {
         int count = 0, index = 0;
         while ((index = mainStr.indexOf(subStr, index)) != -1) {
