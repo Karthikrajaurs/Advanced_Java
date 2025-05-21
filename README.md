@@ -77,16 +77,17 @@ This contents are based on advanced java concepts like Collections frame work , 
 
 6a_FactorialServlet  - o/p link -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-6a_FactorialServlet.png
 
-6b_CookieServlet  - o/p link -- 
+6b_CookieServlet  - o/p link -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-6b.png
 
 6c_CheckPrimeServlet  - o/p link -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-6c_PrimeServlet.png
 
 
 
-7a_SessionManagement  - o/p link -- 
-
-7b_Cookiee_Management  - o/p link --
-
+7a_SessionManagement  - o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-7a1.png 
+                        o/p link 2 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-7a2.png
+                        
+7b_Cookiee_Management  - o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-7b1.png
+                         o/p link 2 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-7b2.png
 
 
 8a_CoffeeApp  - o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-8a1.png
@@ -95,9 +96,9 @@ This contents are based on advanced java concepts like Collections frame work , 
 8b_CoffeeApp_Update  - o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-8b1.png
                        o/p link 2 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-8b2.png
                        
-8c_EmployeeSalaryReport  - o/p link -- 
+8c_EmployeeSalaryReport  - o/p link -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-8c.png
 
-8d_EmployeeUpdateApp  - o/p link --
+8d_EmployeeUpdateApp  - o/p link -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-8d.png
 
 
 
@@ -107,9 +108,9 @@ This contents are based on advanced java concepts like Collections frame work , 
 9b_CoffeeQueryStartsWithD  - o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9b1.png
                              o/p link 1 -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9b2.png
                              
-9c_EmpAppendAndReport  - o/p link --
+9c_EmpAppendAndReport  - o/p link --  https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9c.png
 
-9d_EmpDeleteByName  - o/p link --
+9d_EmpDeleteByName  - o/p link -- https://github.com/Karthikrajaurs/Advanced_Java/blob/main/Screenshot-9d.png
 
 
 
